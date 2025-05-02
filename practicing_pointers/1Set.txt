@@ -1,0 +1,33 @@
+Basic Pointer Operations
+
+Write a program to declare a pointer, assign it an address of an integer variable, and print the variable's value using the pointer.
+Write a program to swap two numbers using pointers.
+Pointer Arithmetic
+
+Write a program to demonstrate pointer arithmetic by incrementing and decrementing a pointer to an array of integers.
+Create an array and use pointers to access each element and print the array in reverse order.
+Pointers and Arrays
+
+Write a function that takes an array and its size as arguments and returns the maximum value using pointers.
+Implement a function that reverses an array in place using pointer manipulation.
+Dynamic Memory Allocation
+
+Write a program that allocates memory for an array of integers using malloc, fills it with values, and prints the values.
+Create a program that uses calloc to dynamically allocate memory for an array, initializes it with values, and then frees the memory.
+Pointers and Functions
+
+Write a function that swaps two integer variables using pointers.
+Write a function that takes a pointer to an integer array and its size, calculates the sum of the elements, and returns it.
+String Manipulation Using Pointers
+
+Write a function to find the length of a string using pointers (without using strlen).
+Implement a function to copy a string from one variable to another using pointers (without strcpy).
+Pointers to Pointers
+
+Write a program that demonstrates a pointer to a pointer by assigning the address of one pointer to another.
+Create a function that modifies a variable using a pointer to a pointer (double pointer).
+Structures and Pointers
+
+Define a structure for a Student (with fields like name, age, and marks) and write a program that uses pointers to set and display values.
+Write a program that creates an array of structures using dynamic memory allocation and pointers.
+Let me know if you'd like help with any specific question!
