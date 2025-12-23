@@ -1,101 +1,77 @@
-# 💻 My C Programming Archive
+# C Programming Learning Repository
 
-Welcome to my personal collection of C programs!  
-This repository contains all the codes I've written while learning and practicing **C programming** — ranging from beginner-friendly exercises to structured projects.
+A comprehensive collection of C programming examples and exercises, organized from basic concepts to advanced topics.
 
----
+## 📚 Learning Path
 
-## 📚 About This Repository
+```
+01-Basics → 02-Operators → 03-Control-Statements → 04-Loops → 05-Functions → 06-Arrays → 07-Strings → 08-Pointers → 09-Structures → 10-Dynamic-Memory → 11-File-Handling → Word-Problems
+```
 
-This repo is a central place where I store all my C programs for easy reference, sharing, and revision.  
-Each code is written with clarity and aims to help others (and my future self) understand fundamental to intermediate C programming concepts.
+## 📁 Repository Structure
 
----
+- **01-Basics**: Variables, data types, basic I/O operations
+- **02-Operators**: Arithmetic, logical, bitwise, and assignment operators
+- **03-Control-Statements**: If-else, switch, conditional logic
+- **04-Loops**: For, while, do-while loops and iteration
+- **05-Functions**: User-defined functions and recursion
+- **06-Arrays**: One-dimensional and multi-dimensional arrays
+- **07-Strings**: String manipulation and character operations
+- **08-Pointers**: Pointer basics, arrays, and functions
+- **09-Structures-and-Unions**: Structs, unions, and complex data types
+- **10-Dynamic-Memory-Allocation**: Memory management with malloc/calloc/realloc/free
+- **11-File-Handling**: File I/O operations for text and binary files
+- **Word_Problem**: 50 practical programming challenges
 
-## 📂 Folder Structure (Example)
+## 🚀 Getting Started
 
-Each `.c` file is a standalone program and may include:
-- Problem statement (in comments)
-- Sample inputs/outputs
-- Explanations where necessary
+### Prerequisites
+- C Compiler (GCC recommended)
+- Text editor or IDE (VS Code, Code::Blocks, etc.)
 
----
+### Compilation
+```bash
+# Compile a C program
+gcc filename.c -o output
 
-## 🧠 Concepts Covered
+# Run the executable
+./output
+```
 
-- 🚀 Basic syntax and I/O
-- 🔁 Loops and conditionals
-- 📊 Arrays and strings
-- 🧮 Pointers and memory management
-- 📁 File handling
-- 🏗️ Structures and user-defined types
-- 📘 Mini projects (like Contact Book, ATM Simulation)
+### Example
+```bash
+# Navigate to a folder
+cd 01-Basics
 
----
+# Compile and run hello world
+gcc 01_hello_world.c -o hello
+./hello
+```
 
-## 🛠️ How to Run These Programs
+## 📖 How to Use
 
-1. Clone the repository:
+1. **Start with Basics**: Begin with folder 01-Basics
+2. **Follow the Sequence**: Progress through folders in numerical order
+3. **Read Documentation**: Each folder contains a detailed README.md
+4. **Practice**: Run programs, modify code, and experiment
+5. **Apply Knowledge**: Solve problems in the Word_Problem folder
 
-   ```bash
-   git clone https://github.com/yourusername/C-Programs.git
-   cd C-Programs
-   ```
+## 🎯 Key Features
 
-2. Compile any program:
+- **Progressive Learning**: From simple to complex concepts
+- **Practical Examples**: Real-world programming scenarios
+- **Well-Documented**: Detailed explanations in each folder
+- **Hands-on Practice**: Hundreads of programs to run and modify
+- **Problem Solving**: 50 word problems for application
 
-   ```bash
-   gcc filename.c -o filename
-   ./filename
-   ```
+## 📝 Learning Tips
 
-> Replace `filename.c` with the actual file name you want to compile.
-
----
-
-## ✅ Prerequisites
-
-- A C compiler like GCC
-- Basic knowledge of how to run C code on terminal or IDE (Code::Blocks, VS Code, etc.)
-
----
-
-## 📌 Recommended Order for Beginners
-
-If you're new to C, try going in this order:
-1. `hello_world.c`
-2. `simple_calculator.c`
-3. `loops_and_conditions.c`
-4. `arrays.c`
-5. `strings.c`
-6. `structures.c`
-7. `pointers.c`
-8. `file_handling.c`
-9. Mini Projects
-
----
-
-## 🧑‍💻 About Me
-
-**Mayank Kumar**  
-B.Tech CSE, UPES Dehradun  
-From Purnia, Bihar (PIN - 854301)
-
-I started this journey with zero experience in coding and built up my confidence with regular practice.  
-This repo is a reflection of my learning path — simple, consistent, and growing. 🌱
+- Type code manually instead of copying
+- Experiment with different inputs
+- Add your own comments and modifications
+- Practice regularly and review concepts
+- Use the word problems to apply what you've learned
 
 ---
 
-## 📃 License
-
-This repository is open-sourced under the MIT License. Feel free to use, fork, or contribute.
-
----
-
-## 🌟 Feedback / Contributions
-
-If you find any mistake or want to improve a solution, feel free to open a Pull Request or drop an issue.
-
----
-
-**Happy Coding! 💡**
+*Happy Coding! Start your C programming journey today.*

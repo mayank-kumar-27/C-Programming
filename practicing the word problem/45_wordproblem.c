@@ -1,1 +1,0 @@
-// Write a program that determines the day of the week for a given date entered by the user.
